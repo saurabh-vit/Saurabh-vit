@@ -60,7 +60,3 @@
 *Computer Science and Engineering* \
 [*VIT Bhopal UNIVERSITY*](https://vitbhopal.ac.in/)  • In progress\
 Skills: Data Structure & Algorithms Game Development Software Development Unity
-
-
-
-[<img align="left" height="94px" width="94px" alt="PW" src="https://www.pw.live/vidyapeeth-centres/_next/static/media/pw.e93961b8.webp"/>](https://www.pw.live/)

@@ -48,7 +48,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsKL2-4F4SLMD-WFwTYCX_T4VZPmtSiq2arCV6sW1fug&s"/>](https://kiit.ac.in/)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://images.app.goo.gl/ECJq259pZq5ATUmx6"/>](https://vitbhopal.ac.in/)
 *Computer Science and Engineering* \
 [*VIT Bhopal UNIVERSITY*](https://vitbhopal.ac.in/)  • In progress\
 Skills: Data Structure & Algorithms Game Development Software Development Unity

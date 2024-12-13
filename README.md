@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Saurabh+Raj;I'm+Computer+Science+Engineering+Student)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh9939)](https://github.com/Saurabh9939/github-readme-stats)
 <h3 align="center">"From pixels to patterns, I code the future"</h3>
 <br>
 <div align="center" style="margin-bottom:200px">

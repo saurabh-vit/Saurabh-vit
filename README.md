@@ -51,4 +51,4 @@
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="file:///C:/Users/rajsa/OneDrive%20-%20vitbhopal.ac.in/Desktop/images.jpg"/>](https://vitbhopal.ac.in/)
 *Computer Science and Engineering* \
 [*VIT Bhopal UNIVERSITY*](https://vitbhopal.ac.in/)  • In progress\
-Skills: Data Structure & Algorithms Game Development Software Development Unity
+Skills: Data Structure & Algorithms, Game Development, Software Development, Unity

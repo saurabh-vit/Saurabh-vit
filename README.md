@@ -57,16 +57,10 @@
 ## Academic Background:
 
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsKL2-4F4SLMD-WFwTYCX_T4VZPmtSiq2arCV6sW1fug&s"/>](https://kiit.ac.in/)
-*Computer Science Engineering Undergraduate* \
-[*KIIT DEEMED TO BE UNIVERSITY*](https://kiit.ac.in/)  • In progress\
-Skills: Data Structure & Algorithms Project Management Software Development Machine Learning Data Analytics Artificial Intelligence Quantum Computing Cloud Computing
+*Computer Science and Engineering* \
+[*VIT Bhopal UNIVERSITY*](https://vitbhopal.ac.in/)  • In progress\
+Skills: Data Structure & Algorithms Game Development Software Development Unity
 
 
 
 [<img align="left" height="94px" width="94px" alt="PW" src="https://www.pw.live/vidyapeeth-centres/_next/static/media/pw.e93961b8.webp"/>](https://www.pw.live/)
-*Graduate Aptitude Test In Engineering(GATE)* \
-[*PhysicsWallah*](https://www.pw.live/)  • In progress\
-Skills: DSA TOC Compiler Design PS DBMS Operating System COA Computer Network DMS Digital Electronics
-
-
- ![Snake animation](https://github.com/Ahisingh/Ahisingh/blob/output/github-contribution-grid-snake.svg)

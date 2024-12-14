@@ -48,7 +48,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="90px" width="90px" alt="Warpnet" src="file:///C:/Users/rajsa/OneDrive%20-%20vitbhopal.ac.in/Desktop/images.jpg"/>](https://vitbhopal.ac.in/)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafIyybHte9g9YSWnhAcxIS_Slh9VAVgPIdA&s"/>](https://vitbhopal.ac.in/)
 *Computer Science and Engineering* \
 [*VIT Bhopal UNIVERSITY*](https://vitbhopal.ac.in/)  • In progress\
 Skills: Data Structure & Algorithms, Game Development, Software Development, Unity

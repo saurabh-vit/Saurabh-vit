@@ -3,8 +3,7 @@
 <h3 align="center">"From pixels to patterns, I code the future"</h3>
 <br>
 <div align="center" style="margin-bottom:200px">
- <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&theme=radical&show_icons=true&cache_seconds=1800" />
-
+ <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&count_private=true&theme=radical&show_icons=true&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats"/>
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-vit&layout=compact&theme=radical&show_icons=true" />
 </div>
 <br>
@@ -41,9 +40,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.gif?cid=6c09b9527zvqper76hq4j1icjztgomg74erbbc56qdkfzknr&ep=v1_gifs_search&rid=200.gif&ct=g" alt="vs code" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/284436772/86362c00-cc71-11eb-8182-1f7e2746d3d2" alt="AWS" width="40" height="40"/> </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/148585/screenshots/1914271/untitled-2v2.gif" alt="Android Studio" width="40" height="40"/> </a>
-  
-
-
 
 
 

@@ -3,7 +3,8 @@
 <h3 align="center">"From pixels to patterns, I code the future"</h3>
 <br>
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&theme=radical&show_icons=true" />
+ <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&theme=radical&show_icons=true&cache_seconds=1800" />
+
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-vit&layout=compact&theme=radical&show_icons=true" />
 </div>
 <br>

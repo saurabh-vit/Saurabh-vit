@@ -4,7 +4,7 @@
 <br>
 <div align="center" style="margin-bottom:200px">
  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&count_private=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats"/>
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-vit&layout=compact&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-vit&layout=compact&theme=radical&show_icons=true&cache_seconds=60" />
 </div>
 <br>
 

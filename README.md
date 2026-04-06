@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=45&center=true&vCenter=true&width=1200&lines=⚡+SAURABH+RAJ;C+++|+DSA+|+GAME+DEV;BUILDING+REAL+SYSTEMS;CONSISTENCY+IS+POWER)](https://git.io/typing-svg)
 
-<h2 align="center">🔥 "Code. Build. Repeat." 🔥</h2>
+<h2 align="center">🔥 Code. Build. Repeat. 🔥</h2>
 
----
+
 
 # ⚡ LIVE CODING STATS (REAL PROOF)
 
@@ -31,7 +31,7 @@
 # 🧠 CONTRIBUTION HEATMAP (SNAKE)
 
 <p align="center">
-  <img src="https://github.com/Saurabh-vit/Saurabh-vit/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Saurabh-vit/Saurabh-vit/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -42,11 +42,11 @@
 
 # 🚀 WHO AM I
 
-- 🎓 CSE @ VIT Bhopal  
-- 💻 C++ + DSA Specialist  
-- 🎮 Game Developer (Unity)  
-- 📊 Exploring Data Science  
-- ⚡ Focused on cracking top MNC  
+- 🎓 Computer Science Engineering student @ VIT Bhopal  
+- 💻 Strong in C++ and Data Structures & Algorithms  
+- 🎮 Game Developer using Unity  
+- 📊 Exploring Data Science and real-world systems  
+- ⚡ Focused on building impactful projects and cracking top product-based companies  
 
 ---
 
@@ -66,7 +66,7 @@
 
 ---
 
-# ⚙️ TECH STACK (VISUAL)
+# ⚙️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,mysql,mongodb,git,aws,vscode,androidstudio" />
@@ -74,12 +74,25 @@
 
 ---
 
-# 🏆 PROJECT ZONE (REAL IMPACT)
+# 🏆 PROJECT ZONE
 
-- 🔫 Zombie Survival AI (Unity)
-- 📊 Finance Tracking System (C++)
-- 📱 App Usage Tracker (Cross Platform)
+- 🔫 Zombie Survival AI (Unity Game)  
+- 📊 Finance Tracking System (C++)  
+- 📱 App Usage Tracker (Cross-platform Desktop App)  
 
 ---
 
 # 📈 CODING JOURNEY
+
+- 🟢 Started with: C++  
+- 🔵 Strong in: Data Structures & Algorithms  
+- 🟡 Exploring: Python & Data Science  
+- 🧠 Currently diving into: Machine Learning  
+- 🤖 Building: Generative AI-based applications  
+- 🔴 Developing: Game Development projects using Unity  
+
+---
+
+# ⚡ MINDSET
+
+💡 I don’t just write code — I build systems that solve real-world problems.

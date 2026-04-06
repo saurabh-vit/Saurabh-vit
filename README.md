@@ -3,8 +3,15 @@
 <h3 align="center">"From pixels to patterns, I code the future"</h3>
 <br>
 <div align="center" style="margin-bottom:200px">
- <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&count_private=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=60" alt="readme stats"/>
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-vit&layout=compact&theme=radical&show_icons=true&cache_seconds=60" />
+ <!-- <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-vit&count_private=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=60" alt="readme stats"/>
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-vit&layout=compact&theme=radical&show_icons=true&cache_seconds=60" /> -->
+ 📊 GitHub Analytics
+
+![](https://streak-stats.demolab.com?user=Saurabh-vit&theme=radical&border_radius=10)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh-vit&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saurabh-vit&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saurabh-vit&theme=radical)
 </div>
 <br>
 

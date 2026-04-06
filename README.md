@@ -59,7 +59,7 @@
  <a href="https://www.instagram.com/saurabh.raj__/">
    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
  </a>
- <a href="mailto:rajsaurabh408@gmail.com">
+ <a href="rajsaurabh408@gmail.com">
    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
  </a>
 </p>

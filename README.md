@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=45&center=true&vCenter=true&width=1200&lines=⚡+SAURABH+RAJ;C+++|+DSA+|+GAME+DEV;BUILDING+REAL+SYSTEMS;CONSISTENCY+IS+POWER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=40&center=true&vCenter=true&width=1000&lines=SAURABH+RAJ;C%2B%2B+|+DSA+|+GAME+DEV+|+ML+|+GEN+AI;BUILDING+REAL+PROJECTS)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurabh-vit&label=Profile%20Views&color=ff0000&style=flat" alt="profile views"/>
+</p>
 
 <h2 align="center">🔥 Code. Build. Repeat. 🔥</h2>
 

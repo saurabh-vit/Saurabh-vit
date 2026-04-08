@@ -8,7 +8,7 @@
 
 
 
-# ⚡ LIVE CODING STATS (REAL PROOF)
+# ⚡ LIVE CODING STATS
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Saurabh-vit&theme=radical&border_radius=15&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
@@ -32,7 +32,7 @@
 
 ---
 
-# 🧠 CONTRIBUTION HEATMAP (SNAKE)
+# 🧠 CONTRIBUTION
 
 <p align="center">
   <img src="https://github.com/Saurabh-vit/Saurabh-vit/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -86,7 +86,7 @@
 
 ---
 
-# 📈 CODING JOURNEY
+# 💻 CODING JOURNEY
 
 - 🟢 Started with: C++  
 - 🔵 Strong in: Data Structures & Algorithms  

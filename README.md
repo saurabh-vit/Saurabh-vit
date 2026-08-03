@@ -127,9 +127,9 @@ Strong DSA isn't separate from ML — it's what separates engineers who use AI f
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-vit&theme=react-dark&bg_color=0D1117&hide_border=true&line=FF0000&point=FFFFFF&area=true" width="100%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh-vit&theme=radical" />
-</p>
+</p> -->
 
 ---
 
